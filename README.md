@@ -66,7 +66,9 @@ Essas qualidades contribuem diretamente para meu crescimento **acadêmico e prof
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilo-xavier/murilo-xavier/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/murilo-xavier/murilo-xavier/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
+
 ⭐ Obrigado por visitar meu perfil!  
 Este repositório representa minha jornada, dedicação e evolução no mundo da tecnologia.
 
