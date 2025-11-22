@@ -37,7 +37,7 @@ Essas qualidades contribuem diretamente para meu crescimento **acadêmico e prof
 > Linguagens, ferramentas e tecnologias que venho utilizando e estudando:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,9 +69,9 @@ Sou apaixonado por aprendizado contínuo e, atualmente, estou focado no desenvol
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo%20Xavier-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-xavier-530a13307/)  
-[![Gmail](https://img.shields.io/badge/Gmail-muriloxmacedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloxmacedo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-murilo_xavier-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_xavierr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-xavier-530a13307/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloxmacedo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilo_xavierr/)
 
 
 ---
