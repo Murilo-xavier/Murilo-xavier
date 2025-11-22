@@ -45,11 +45,25 @@ Essas qualidades contribuem diretamente para meu crescimento **acadêmico e prof
 
 ---
 
+## 🌍 Estudando outros idiomas
+
+Sou apaixonado por aprendizado contínuo e, atualmente, estou focado no desenvolvimento de novas habilidades linguísticas, com **ênfase no inglês**, buscando melhorar minha fluência para oportunidades acadêmicas e profissionais internacionais.
+
+**Idiomas em foco:**
+- US **Inglês** – Em constante evolução
+- 🌎 Outros idiomas – Em planejamento futuro  
+
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/MuriloXavierr)
+
+> _"Aprender um novo idioma é abrir portas para novos mundos — e estou determinado a atravessá-las."_
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-xavier&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murilo-xavier&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-xavier&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-xavier&layout=compact&theme=dark)
 
 ---
 
