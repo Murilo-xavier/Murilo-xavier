@@ -45,14 +45,20 @@ Essas qualidades contribuem diretamente para meu crescimento **acadêmico e prof
 
 ---
 
-## 🌍 Estudando outros idiomas
+## 🚧 Atualmente
 
-Sou apaixonado por aprendizado contínuo e, atualmente, estou focado no desenvolvimento de novas habilidades linguísticas, com **ênfase no inglês**, buscando melhorar minha fluência para oportunidades acadêmicas e profissionais internacionais.
+> 🔭 Trabalhando em projetos práticos com **Java**, focando em consumo de APIs e organização de código  
+> 
+> 📚 Estudando **Análise e Projetos de Sistemas**, **Padrões de Projetos e Arquitetura de Software** 
+
+🧠 Evoluindo em:
+- Integração com APIs REST  
+- Manipulação de JSON com Gson  
+- Boas práticas e arquitetura de software  
 
 **Idiomas em foco:**
 - US **Inglês** – Em constante evolução
 - 🌎 Outros idiomas – Em planejamento futuro  
-
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/MuriloXavierr)
 
 > _"Aprender um novo idioma é abrir portas para novos mundos — e estou determinado a atravessá-las."_
